@@ -1,14 +1,16 @@
 # Language Translator
 
-A simple and efficient language translator web app built with React and Vite. This app allows you to translate text between multiple languages using the Google Translate API. It features a clean UI with dark mode support, language swapping, and document upload for easy translation of text files.
+A simple and efficient language translator web app built with React and Vite. This app allows you to translate text between multiple languages using REST API. It features a clean UI with dark mode support, language swapping, and document upload for easy translation of text files.
 
 
 ![Language Translator](public/Language-Translator.png)
 
+<h1><a href="https://docify-translator.netlify.app/"></a></h1>
+
 
 ## Features
 
-- Translate text between 45+ languages with automatic language detection
+- Translate text between 30+ languages with automatic language detection
 - Upload documents (PDF, TXT, DOC, DOCX) to translate their content
 - Swap input and output languages with a single click
 - Dark mode toggle for comfortable usage in low-light environments
