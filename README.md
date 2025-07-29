@@ -7,7 +7,7 @@ A simple and efficient language translator web app built with React and Vite. Th
 
 ![Language Translator](public/Language-Translator.png)
 
-<h1><a href="https://docify-translator.netlify.app/">Visit✨</a></h1>
+## <a href="https://docify-translator.netlify.app/">Visit✨</a>
 
 
 ## Features
